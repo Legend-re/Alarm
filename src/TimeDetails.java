@@ -3,7 +3,7 @@ import java.time.LocalDateTime;
 
 public class TimeDetails {
 
-    public String alarmLabel;
+    public String alarmLabel = "17:00";
     public LocalDateTime date;
 
 /*    public TimeDetails(LocalDate date) {
